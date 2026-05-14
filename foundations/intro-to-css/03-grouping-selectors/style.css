@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.clickme-1,
+.clickme-2{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.clickme-1{ 
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.clickme-2{
+    background-color: rgb(255, 220, 19);
+}
